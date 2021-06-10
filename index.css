@@ -1,0 +1,44 @@
+body{
+  background-image: url(./assets/healthy-eating-ingredients-1200x628-facebook-1200x628.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+#nav{
+   background-color: rgb(230, 175, 56);
+
+}
+#nav p{
+  margin-left: 2%;
+}
+nav{
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10%;
+}
+nav ul li{
+  list-style: none;
+  display: inline;
+  padding-right: 10px;
+}
+ #about{
+   text-align: center;
+
+ } 
+ #product{
+   display: flex;
+ }
+ #product div{
+   padding: 10px 20px 10px 20 px;
+   margin: 0 5px 0 5px;
+   text-align: center;
+ }
+ #product>div{
+   background-color:rgb(230, 175, 56) ;
+   opacity: 0.7;
+  }
+footer{
+  background-color: rgb(230, 175, 56);
+  height: 50px;
+  margin-top: 100px;
+}
