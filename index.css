@@ -7,6 +7,8 @@ body{
 #nav{
    background-color: rgb(230, 175, 56);
 
+   position: sticky;
+
 }
 #nav p{
   margin-left: 2%;
@@ -39,6 +41,8 @@ nav ul li{
   }
 footer{
   background-color: rgb(230, 175, 56);
-  height: 50px;
-  margin-top: 100px;
+  height: 100px;
+  margin-top: 18%;
+  text-align: center;
+  position: sticky;
 }
